@@ -1,6 +1,8 @@
+
+
 ### Hi, I'm Marina 👋
 
-
+<img src="https://imgur.com/a/alw1NRd">
 
 <!--
 **marinitx/marinitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
