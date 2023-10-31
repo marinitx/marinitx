@@ -2,7 +2,7 @@
 
 ### Hi, I'm Marina 👋
 
-<img src="https://imgur.com/a/alw1NRd">
+<img src="https://github.com/marinitx/marinitx/assets/123256807/a25fc5fb-4c24-4385-b566-13a912000a70">
 
 <!--
 **marinitx/marinitx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
