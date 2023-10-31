@@ -2,7 +2,6 @@
 
 ### Hi, I'm Marina 👋
 
-<img src="https://github.com/marinitx/marinitx/assets/123256807/a25fc5fb-4c24-4385-b566-13a912000a70">
 <img src="https://github.com/marinitx/marinitx/assets/123256807/ee754407-9525-4b95-a5fe-8055659e2a1e">
 
 <!--
