@@ -15,18 +15,19 @@ Aspiring developer with a passion for creativity and with a determined focus on 
 <tr>
 <td width="70%">
 
-## About me
-- ⚡️ Enthusiastic about video editing, design, and honing UX/UI skills.
-- 🕸 Keen to delve into the realm of frontend development.
-- 🧩 Dedicated to learning and mastering the nuances of design to create impactful and innovative solutions.
-- 🦎 Driven by a passion for environmental sustainability and a strong desire to make a positive impact on the world.
-- 🌱 Actively pursuing personal growth and continuous learning to achieve professional excellence and contribute meaningfully to the tech and environmental sectors.
-<br><br>
+<h2>About me</h2>
+<ul>
+<li>⚡️ Enthusiastic about video editing, design, and honing UX/UI skills.</li>
+<li>🕸 Keen to delve into the realm of frontend development.</li>
+<li>🧩 Dedicated to learning and mastering the nuances of design to create impactful and innovative solutions.</li>
+<li>🦎 Driven by a passion for environmental sustainability and a strong desire to make a positive impact on the world.</li>
+<li>🌱 Actively pursuing personal growth and continuous learning to achieve professional excellence and contribute meaningfully to the tech and environmental sectors.</li>
+</ul>
+<br>
 </td>
 <td width="30%">
-<br>
   
-  ## Connect with me:
+<h2>Connect with me:</h2>
   <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img  src="https://imageupload.io/ib/taJnIeoc01ZtBFp_1698827054.png" alt="Frame 1.png"/></a>
   <br><br>
 </td>
