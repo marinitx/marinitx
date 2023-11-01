@@ -28,7 +28,7 @@
 <td width="30%">
   
 <h2>Connect with me:</h2>
-  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img  src="https://imageupload.io/ib/taJnIeoc01ZtBFp_1698827054.png" alt="Frame 1.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img  src="https://imageupload.io/ib/taJnIeoc01ZtBFp_1698827054.png" align="center" alt="Frame 1.png"/></a>
   <br><br>
 </td>
 </body>
