@@ -23,7 +23,7 @@
 <li>🦎 Driven by a passion for environmental sustainability and a strong desire to make a positive impact on the world.</li>
 <li>🌱 Actively pursuing personal growth and continuous learning to achieve professional excellence and contribute meaningfully to the tech and environmental sectors.</li>
 </ul>
-<br>
+
 </td>
 <td width="30%">
   
