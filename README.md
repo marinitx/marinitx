@@ -1,10 +1,10 @@
 <html>
 <head>
-</head>
 <body>
 <div align="center">
 <h1> Hi, I'm Marina 👋🏼 </h1>
 </div>
+</head>
 
 <img src="https://github.com/marinitx/marinitx/assets/123256807/ee754407-9525-4b95-a5fe-8055659e2a1e">
 <br>
