@@ -6,7 +6,7 @@
 </div>
 </head>
 
-<img src="https://github.com/marinitx/marinitx/assets/123256807/ee754407-9525-4b95-a5fe-8055659e2a1e">
+<img src="https://github.com/marinitx/marinitx/assets/123256807/e8da6ed5-2d74-4aa0-963c-20e15dd5b89c">
 <br>
 <br>
 <p>Aspiring developer with a passion for <strong>creativity</strong> and with a determined focus on building a solid foundation in <strong>C programming</strong>. Currently honing my skills at <strong>42 Madrid</strong> in computer programming and simultaneously pursuing a degree in <strong>Business Administration and Marketing</strong> at URJC. Committed to merging the realms of <strong>technology</strong> and <strong>marketing</strong>, with a focus on leveraging programming expertise to drive innovative marketing strategies and business solutions. Eager to continuously learn and apply a diverse skill set in both the technical and business spheres.</p><br><br>
