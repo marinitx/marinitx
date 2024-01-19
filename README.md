@@ -31,5 +31,10 @@
   <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img  src="https://github.com/marinitx/marinitx/assets/123256807/843a0317-69a3-4f18-ac8c-46f9c84d5fa7" align="center" alt="Frame 1.png"/></a>
   <br><br>
 </td>
+</table>
+
+<img src="https://github.com/marinitx/marinitx/assets/123256807/1009145a-093a-4926-8645-6072ee7b8c45">
+<br><br>
+
 </body>
 </html
