@@ -47,7 +47,7 @@
 </td>
   
 </table>
-<img src="https://github.com/marinitx/marinitx/assets/123256807/1009145a-093a-4926-8645-6072ee7b8c45">
+
 <br><br>
 
 </body>
