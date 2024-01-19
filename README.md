@@ -34,21 +34,25 @@
 </table>
 
 <table>
-<td width="25%">
-<img src="https://github.com/marinitx/marinitx/assets/123256807/1009145a-093a-4926-8645-6072ee7b8c45">
+<td width="30%">
+<img src="https://github.com/marinitx/marinitx/assets/123256807/5babdc5a-5909-4ac6-a683-1b4837982200">
 </td>
 
-<td width="50%">
-<img src="https://github.com/marinitx/marinitx/assets/123256807/1009145a-093a-4926-8645-6072ee7b8c45">
+<td width="40%">
+<img src="https://github.com/marinitx/marinitx/assets/123256807/567bd8a1-7eb6-4074-902c-b567d9ea30bd">
 </td>
 
-<td width="25%">
-<img src="https://github.com/marinitx/marinitx/assets/123256807/1009145a-093a-4926-8645-6072ee7b8c45">
+<td width="30%">
+<img src="https://github.com/marinitx/marinitx/assets/123256807/be4485cf-1339-4667-bf09-9adf49e9eee4">
 </td>
   
 </table>
 <img src="https://github.com/marinitx/marinitx/assets/123256807/1009145a-093a-4926-8645-6072ee7b8c45">
 <br><br>
+
+Frame 3](https://github.com/marinitx/marinitx/assets/123256807/5babdc5a-5909-4ac6-a683-1b4837982200)
+[Frame 5](https://github.com/marinitx/marinitx/assets/123256807/be4485cf-1339-4667-bf09-9adf49e9eee4)
+[Frame 4](https://github.com/marinitx/marinitx/assets/123256807/567bd8a1-7eb6-4074-902c-b567d9ea30bd)
 
 </body>
 </html
