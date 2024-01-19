@@ -35,7 +35,7 @@
 
 <table>
 <td width="30%">
-<img src="https://github.com/marinitx/marinitx/assets/123256807/5babdc5a-5909-4ac6-a683-1b4837982200">
+<img src="https://github.com/marinitx/marinitx/assets/123256807/9b3c3217-47ba-4c1e-a6b0-4807cc695b2a">
 </td>
 
 <td width="40%">
