@@ -43,7 +43,7 @@
 </td>
 
 <td width="30%">
-<img src="https://github.com/marinitx/marinitx/assets/123256807/9831340d-4740-48e2-b0d0-0b4e0242e7f4">
+<a target="_blank" href="https://github.com/marinitx?tab=repositories"><img src="https://github.com/marinitx/marinitx/assets/123256807/9831340d-4740-48e2-b0d0-0b4e0242e7f4" align="center" alt="Coding_Projects.png"></a>
 </td>
   
 </table>
