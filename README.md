@@ -35,7 +35,7 @@
 
 <table>
 <td width="30%">
-<img src="https://github.com/marinitx/marinitx/assets/123256807/9b3c3217-47ba-4c1e-a6b0-4807cc695b2a">
+<a target="_blank" href="https://open.spotify.com/playlist/7MaMXzjpTeCyy1NEeXtT69?si=9e8a40c0f86b4759"><img src="https://github.com/marinitx/marinitx/assets/123256807/9b3c3217-47ba-4c1e-a6b0-4807cc695b2a" align="center" alt="Spotify.png"></a>
 </td>
 
 <td width="40%">
