@@ -31,22 +31,22 @@
 <td width="30%">
   
 <h2>Connect with me:</h2>
-  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img  src="https://github.com/user-attachments/assets/7c196bce-a359-4f58-8f90-c024700d49e3" align="center" alt="Frame 1.png"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img  src="https://github.com/user-attachments/assets/451029b5-b524-4fa3-9710-a71bbbbab188" align="center" alt="let's connect illustration of a girl greeting"/></a>
   <br><br>
 </td>
 </table>
 
 <table>
 <td width="30%">
-<a target="_blank" href="https://open.spotify.com/playlist/7MaMXzjpTeCyy1NEeXtT69?si=9e8a40c0f86b4759"><img src="https://github.com/user-attachments/assets/335aa87e-925b-4334-be45-9de2167f14f5" align="center" alt="Spotify.png"></a>
+<a target="_blank" href="https://open.spotify.com/playlist/7MaMXzjpTeCyy1NEeXtT69?si=9e8a40c0f86b4759"><img src="https://github.com/user-attachments/assets/335aa87e-925b-4334-be45-9de2167f14f5" align="center" alt="a girl listening to music spotify link"></a>
 </td>
 
 <td width="40%">
-<img src="https://github.com/marinitx/marinitx/assets/123256807/f3fd00fb-6f52-44df-8829-2c0e96143850">
+<img src="https://github.com/user-attachments/assets/a59f5c2f-ed04-4a66-8e03-c1fc4a460c25">
 </td>
 
 <td width="30%">
-<a target="_blank" href="https://github.com/marinitx?tab=repositories"><img src="https://github.com/marinitx/marinitx/assets/123256807/9831340d-4740-48e2-b0d0-0b4e0242e7f4" align="center" alt="Coding_Projects.png"></a>
+<a target="_blank" href="https://github.com/marinitx?tab=repositories"><img src="https://github.com/user-attachments/assets/03e24a08-a641-4029-91fd-c560be603a72" align="center" alt="a girl coding projects link"></a>
 </td>
   
 </table>
