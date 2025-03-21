@@ -14,6 +14,9 @@
 <h2>Tech Stack</h2>
 <img src="https://github.com/user-attachments/assets/8462fbfa-f88c-47a3-b485-592fedd65935">
 
+
+![marinitx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marinitx&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+
 <table>
 <tr>
 <td width="70%">
