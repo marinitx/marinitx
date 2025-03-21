@@ -7,6 +7,17 @@
 </head>
 
 <img src="https://github.com/user-attachments/assets/dd93de84-db13-45a5-804b-794b25f9217b">
+
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=marinitx&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/marinitx"
+    width="600"
+    height="120"
+  />
+</a>
+
+  
 <br>
 <br>
 <p>Aspiring developer with a passion for <strong>creativity</strong> and with a determined focus on building a solid foundation in <strong>C programming</strong>. Currently honing my skills at <strong>42 Madrid</strong> in computer programming and simultaneously pursuing a degree in <strong>Business Administration and Marketing</strong> at URJC. Committed to merging the realms of <strong>technology</strong> and <strong>marketing</strong>, with a focus on leveraging programming expertise to drive innovative marketing strategies and business solutions. Eager to continuously learn and apply a diverse skill set in both the technical and business spheres.</p><br><br>
