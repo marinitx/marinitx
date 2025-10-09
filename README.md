@@ -58,7 +58,7 @@
 </td>
 
 <td width="40%">
-<img src="https://github.com/user-attachments/assets/a59f5c2f-ed04-4a66-8e03-c1fc4a460c25">
+<a target="_blank" href="https://www.marinahigueras.com"><img src="https://github.com/user-attachments/assets/a59f5c2f-ed04-4a66-8e03-c1fc4a460c25" alt="a girl building link"></a>
 </td>
 
 <td width="30%">
