@@ -1,13 +1,6 @@
 <html>
-<head>
-<body>
-<div align="center">
-<h1> Hi, I'm Marina 👋🏼 </h1>
-</div>
-</head>
 
-<img src="https://github.com/user-attachments/assets/dd93de84-db13-45a5-804b-794b25f9217b">
-
+<img width="1280" height="640" alt="Frame 1" src="https://github.com/user-attachments/assets/d5ed45d6-8c50-4f06-ba30-d270f148a76c" />
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=marinitx&utm_content=line">
@@ -47,7 +40,7 @@
 <td width="30%">
   
 <h2>Connect with me:</h2>
-  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img  src="https://github.com/user-attachments/assets/451029b5-b524-4fa3-9710-a71bbbbab188" align="center" alt="let's connect illustration of a girl greeting"/></a>
+  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img width="350" height="350" alt="Frame 2" src="https://github.com/user-attachments/assets/c5e2fb3c-26f7-4f2a-b3fd-591725c671c0" /></a>
   <br><br>
 </td>
 </table>
@@ -69,5 +62,4 @@
 
 <br><br>
 
-</body>
 </html
