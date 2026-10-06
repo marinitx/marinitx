@@ -25,13 +25,14 @@
 
 <h3>Toolbox</h3>
 
-<p><strong>Product and design</strong> Figma <br>
-<strong>Code</strong> C, JavaScript, TypeScript, Astro, Tailwind, C++, HTML, CSS</p>
+<p><strong>Product and design</strong> Figma, Design Systems, UI/UX, Interaction Design, Prototyping, Accessibility, Design Thinking <br>
+<strong>Code</strong> HTML, CSS, JavaScript, Astro, Git, Responsive Design, Jira, C, C++</p>
 
 <p>Always up for a chat about products, hackathons and ideas worth building.</p>
 
 <h2 align="center">Connect with me</h2>
 
 <div align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img width="33%" src="https://github.com/user-attachments/assets/c5e2fb3c-26f7-4f2a-b3fd-591725c671c0" alt="LinkedIn"></a><a target="_blank" href="https://open.spotify.com/playlist/7MaMXzjpTeCyy1NEeXtT69?si=9e8a40c0f86b4759"><img width="33%" src="https://github.com/user-attachments/assets/aaa3742b-011f-4da1-a034-192db8967c23" alt="a girl listening to music spotify link"></a><a target="_blank" href="https://www.marinahigueras.com"><img width="33%" src="https://github.com/user-attachments/assets/1a4b0501-d535-4ee6-accf-b74d1bcd741c" alt="a girl building link"></a>
+  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img width="33%" src="https://github.com/user-attachments/assets/c5e2fb3c-26f7-4f2a-b3fd-591725c671c0" alt="LinkedIn"></a><a target="_blank" href="https://open.spotify.com/playlist/7MaMXzjpTeCyy1NEeXtT69?si=9e8a40c0f86b4759"><img width="33%" src="https://github.com/user-attachments/assets/b121529b-3582-4839-8322-6c0be1a4727d" alt="a girl listening to music spotify link"></a><a target="_blank" href="https://www.marinahigueras.com"><img width="33%" src="https://github.com/user-attachments/assets/9b20fc2d-38aa-494b-829c-2e2f87ba5152" alt="a girl building link"></a>
 </div>
+
