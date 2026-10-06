@@ -1,49 +1,38 @@
-<html>
-
 <img width="1280" height="640" alt="Frame 1" src="https://github.com/user-attachments/assets/d5ed45d6-8c50-4f06-ba30-d270f148a76c" />
-
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=marinitx&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/marinitx?pet-id=706158834892521863"
-    width="600"
+    width="1280"
     height="120"
   />
 </a>
 
-
-  
 <br>
 <br>
-<p>Aspiring developer with a passion for <strong>creativity</strong> and with a determined focus on building a solid foundation in <strong>Web Design and Development</strong>. Graduated at <strong>42 Madrid</strong> in computer programming and graduated in <strong>Business Administration and Marketing</strong> at URJC. Committed to merging the realms of <strong>technology</strong> and <strong>marketing</strong>, with a focus on leveraging programming expertise to drive innovative marketing strategies and business solutions. Eager to continuously learn and apply a diverse skill set in both the technical and business spheres.</p><br><br>
 
-<h2>Tech Stack</h2>
-<img src="https://github.com/user-attachments/assets/8462fbfa-f88c-47a3-b485-592fedd65935">
+<h2>I design for hackers. And make it simple for everyone else.</h2>
 
+<p>Product & Design Lead at <strong>Secur0</strong>. 9x hackathon winner. Software Engineering at <strong>42 Madrid</strong>, Business and Marketing at <strong>URJC</strong>.</p>
 
-![marinitx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marinitx&theme=transparent&show_icons=true&hide_border=true&layout=compact)
+<h3>What I do now</h3>
 
-<table>
-<tr>
-<td width="70%">
+<p>I lead Product & Design at <a href="https://secur0.com">Secur0</a>, where I turn cybersecurity complexity into products that feel simple without dumbing them down for the experts.</p>
 
-<h2>About me</h2>
-<ul>
-<li>⚡️ Enthusiastic about video editing, design, and honing UX/UI skills.</li>
-<li>🕸 Keen to delve into the realm of frontend development.</li>
-<li>🧩 Dedicated to learning and mastering the nuances of design to create impactful and innovative solutions.</li>
-<li>🦎 Driven by a passion for environmental sustainability and a strong desire to make a positive impact on the world.</li>
-<li>🌱 Actively pursuing personal growth and continuous learning to achieve professional excellence and contribute meaningfully to the tech and environmental sectors.</li>
-</ul>
+<h3>How I got here</h3>
 
-</td>
-<td width="30%">
-  
-<h2>Connect with me:</h2>
-  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img width="350" height="350" alt="Frame 2" src="https://github.com/user-attachments/assets/c5e2fb3c-26f7-4f2a-b3fd-591725c671c0" /></a>
-  <br><br>
-</td>
-</table>
+<p>A slightly random mix that taught me to see product from all sides. Business, Marketing and Entrepreneurship for the business behind it. Design for the people using it. Software Engineering at 42 for the technology that makes it possible.</p>
+
+<h3>Toolbox</h3>
+
+<p><strong>Product and design</strong> Figma <br>
+<strong>Code</strong> C, JavaScript, TypeScript, Astro, Tailwind, C++, HTML, CSS</p>
+
+<p>Always up for a chat about products, hackathons and ideas worth building.</p>
+
+<h2>Connect with me</h2>
+<a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img width="350" height="350" alt="Frame 2" src="https://github.com/user-attachments/assets/c5e2fb3c-26f7-4f2a-b3fd-591725c671c0" /></a>
+<br><br>
 
 <table>
 <td width="30%">
@@ -57,9 +46,4 @@
 <td width="30%">
 <a target="_blank" href="https://github.com/marinitx?tab=repositories"><img src="https://github.com/user-attachments/assets/03e24a08-a641-4029-91fd-c560be603a72" align="center" alt="a girl coding projects link"></a>
 </td>
-  
 </table>
-
-<br><br>
-
-</html
