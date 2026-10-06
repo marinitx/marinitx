@@ -30,20 +30,8 @@
 
 <p>Always up for a chat about products, hackathons and ideas worth building.</p>
 
-<h2>Connect with me</h2>
-<a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img width="350" height="350" alt="Frame 2" src="https://github.com/user-attachments/assets/c5e2fb3c-26f7-4f2a-b3fd-591725c671c0" /></a>
-<br><br>
+<h2 align="center">Connect with me</h2>
 
-<table>
-<td width="30%">
-<a target="_blank" href="https://open.spotify.com/playlist/7MaMXzjpTeCyy1NEeXtT69?si=9e8a40c0f86b4759"><img src="https://github.com/user-attachments/assets/335aa87e-925b-4334-be45-9de2167f14f5" align="center" alt="a girl listening to music spotify link"></a>
-</td>
-
-<td width="40%">
-<a target="_blank" href="https://www.marinahigueras.com"><img src="https://github.com/user-attachments/assets/a59f5c2f-ed04-4a66-8e03-c1fc4a460c25" alt="a girl building link"></a>
-</td>
-
-<td width="30%">
-<a target="_blank" href="https://github.com/marinitx?tab=repositories"><img src="https://github.com/user-attachments/assets/03e24a08-a641-4029-91fd-c560be603a72" align="center" alt="a girl coding projects link"></a>
-</td>
-</table>
+<div align="center">
+  <a target="_blank" href="https://www.linkedin.com/in/marina-higueras/"><img width="33%" src="https://github.com/user-attachments/assets/c5e2fb3c-26f7-4f2a-b3fd-591725c671c0" alt="LinkedIn"></a><a target="_blank" href="https://open.spotify.com/playlist/7MaMXzjpTeCyy1NEeXtT69?si=9e8a40c0f86b4759"><img width="33%" src="https://github.com/user-attachments/assets/aaa3742b-011f-4da1-a034-192db8967c23" alt="a girl listening to music spotify link"></a><a target="_blank" href="https://www.marinahigueras.com"><img width="33%" src="https://github.com/user-attachments/assets/1a4b0501-d535-4ee6-accf-b74d1bcd741c" alt="a girl building link"></a>
+</div>
