@@ -13,7 +13,7 @@
 
 <h2>I design for hackers. And make it simple for everyone else.</h2>
 
-<p>Product & Design Lead at <strong>Secur0</strong>. 9x hackathon winner. Software Engineering at <strong>42 Madrid</strong>, Business and Marketing at <strong>URJC</strong>.</p>
+<p>Product & Designer at <strong>Secur0</strong>. 9x hackathon winner. Software Engineering at <strong>42 Madrid</strong>, Business and Marketing at <strong>URJC</strong>.</p>
 
 <h3>What I do now</h3>
 
